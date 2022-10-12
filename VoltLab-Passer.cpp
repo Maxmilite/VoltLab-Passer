@@ -44,5 +44,4 @@ int main()
     printf ("输入数据无效，程序即将自动退出");
     system("pause");
     return 0;
-	// none
 }
